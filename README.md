@@ -10,9 +10,9 @@
 
 ## 일별 자료
 
-현재 공개: [Day 1](day-01/README.md), [Day 2](day-02/README.md), [Day 3](day-03/README.md), **[Day 4](day-04/README.md)**. Day5는 아래 예정에 따라 순차 공개한다.
+현재 공개: [Day 1](day-01/README.md), [Day 2](day-02/README.md), [Day 3](day-03/README.md), [Day 4](day-04/README.md), **[Day 5](day-05/README.md)**. 5일 과정 자료가 모두 공개되었습니다.
 
-Day1에 clone한 배포 저장소에서 `git pull --ff-only origin main`을 실행하면 Day4 자료까지 추가된다. 개인 PBL 저장소와 구분한다.
+Day1에 clone한 배포 저장소에서 `git pull --ff-only origin main`을 실행하면 Day5 자료까지 추가된다. 개인 PBL 저장소와 구분한다.
 
 Day 2 실습을 마친 뒤 [Day 2 데이터 준비 결과 양식](evidence/day-02-data.md)을 개인 PBL 저장소의 같은 경로에 복사해 실제 결과를 작성하고 commit·push한다.
 

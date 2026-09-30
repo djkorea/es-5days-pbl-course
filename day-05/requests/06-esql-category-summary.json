@@ -1,0 +1,3 @@
+{
+  "query": "FROM products | STATS product_count = COUNT(*), average_price = ROUND(AVG(price), 0) BY category | SORT product_count DESC, category ASC | LIMIT 10"
+}

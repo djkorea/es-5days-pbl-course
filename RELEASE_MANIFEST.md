@@ -48,3 +48,6 @@
 - 개인1000건 생성 템플릿, 로컬 데이터 검사, loader, 도서 참고 mapping/검증 요청.
 - v2·구 실습·후속 Dashboard 참고·Day3~5·강사 대본/PPT/정답·실제 .env 제외.
 - 기본 생성기 지원 범위와 같은ID 재적재 주의는 Day2 생성 가이드 참조.
+
+## 2026-09-30 과정 종료 후 동기화
+- Day 1~5 공개 완료. Day 5: README.md, student-workbook.md, requests/06-esql-category-summary.json.
